@@ -1,6 +1,6 @@
 # Infarctus Detection
 
-This project aims to develop and evaluate deep learning models for detecting myocardial infarction (heart attack) in Electrocardiograms (ECGs). The models are trained and tested on the ECG200 dataset.
+This project aims to develop and evaluate deep learning models for detecting myocardial infarction in Electrocardiograms (ECGs). The models are trained and tested on the ECG200 dataset.
 
 ## Collaborators
 
